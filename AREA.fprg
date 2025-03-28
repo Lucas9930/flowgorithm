@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="AREA"/>
+        <attribute name="authors" value="Aluno"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-21 10:28:02 "/>
+        <attribute name="created" value="QWx1bm87VVBMMi0wMEE7MjAyNS0wMi0yMTsiMDc6NTM6MDMgIjsyMTk1"/>
+        <attribute name="edited" value="QWx1bm87VVBMMi0wMEE7MjAyNS0wMi0yMTsiMTA6Mjg6MDIgIjsxOzIyOTg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;SEJA BEM VINDO A CALCULADORA DE &#193;REA&quot;" newline="True"/>
+            <output expression="&quot;DIGITE O LADO DO QUADRADO&quot;" newline="True"/>
+            <declare name="QUADRADO" type="Integer" array="False" size=""/>
+            <input variable="QUADRADO"/>
+            <output expression="&quot;A AREA DO QUADRADO &#201;&quot; &amp; QUADRADO" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
